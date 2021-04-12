@@ -3,7 +3,7 @@
 
 ## I'm a Student at Malmö University, Sweden :school:
 
-- 🌱 I’m currently learning Java 🤣
+- 🌱 I’m currently learning Java
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love :coffee: 
 
