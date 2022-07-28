@@ -3,8 +3,8 @@
 
 ## I'm a Student at Malmö University, Sweden :school:
 
-- 🌱 I’m currently learning Java
-- Currently studying my second year at Malmö University to become a system developer.
+
+- Currently studying my third year at Malmö University to become a system developer.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love :coffee: 
 
