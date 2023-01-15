@@ -16,6 +16,7 @@
   <img src="icons/visual-studio-code.png" width="50" />
   <img src="icons/java.png" width="50" />
   <img src="icons/Python.png" width="50" />
+  <img src="icons/web.png" width="50" />
 </p>
 
 
