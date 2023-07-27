@@ -1,10 +1,10 @@
 ### Hi there, I'm Philip! 👋
 
 
-## I'm a Student at Malmö University, Sweden :school:
 
 
-- Currently studying my third year at Malmö University to become a system developer.
+
+- Recently graduated system developer from Malmö University. 🏫
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love :coffee: 
 
