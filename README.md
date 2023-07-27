@@ -2,8 +2,6 @@
 
 
 
-
-
 - Recently graduated system developer from Malmö University. 🏫
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love :coffee: 
