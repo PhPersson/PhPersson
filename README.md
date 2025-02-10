@@ -1,8 +1,7 @@
 ### Hi there, I'm Philip! 👋
 
-- Graduated system developer from Malmö University. 🏫
+- System developer from Malmö. 🏫
 - 💻 Passionate about open source and IoT! 🌐
-- 🎥 Currently working with support for camera surveillance systems like Axis and Milestone.
 
 <br />
 
